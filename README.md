@@ -9,21 +9,21 @@ Here are the screenshots of the rice.
 ## Desktop with neofetch and polybar
 <p align="center">
   <img width=1000
-       src=/Screenshots/screenshot1.png
+       src=/Screenshots/Screenshot1.png
        >
 </p>
 
 ## Rofi menu
 <p align="center">
   <img width=1000
-       src=/Screenshots/screenshot2.png
+       src=/Screenshots/Screenshot2.png
        >
 </p>
 
 ## Desktop
 <p align="center">
   <img width=1000
-       src=/Screenshots/screenshot3.png
+       src=/Screenshots/Screenshot3.png
        >
 </p>
 

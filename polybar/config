@@ -30,7 +30,7 @@ alert = #bd2c40
 [bar/polybar-1]
 width = 100%
 height = 20
-radius = 0.0
+radius = 10.0
 fixed-center = center
 
 background = ${colors.background}
@@ -50,7 +50,7 @@ module-margin-right = 1
 
 font-0 = Noto Sans:style=Regular:pixelsize=12;2
 
-modules-left = bspwm
+modules-left = bspwm xwindow
 modules-right = wired-network memory pulseaudio cpu date
 
 separator = |

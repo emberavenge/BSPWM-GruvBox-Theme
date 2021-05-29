@@ -92,8 +92,8 @@ udspeed-minwidth = 5
 accumulate-stats = true
 format-underline = #ffffff
 unknown-as-up = true
-format-connected = NET-<label-connected>
-label-connected = %downspeed%
+format-connected = <label-connected>
+label-connected = %downspeed% down%upspeed% up
 
 [module/memory]
 type = internal/memory

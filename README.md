@@ -6,7 +6,7 @@ BSPWM + Polybar + Rofi + Terminator on Artix Linux
 
 Here are the screenshots of the rice.
 
-## Neofetch Terminator and Htop
+## Neofetch, Terminator and Htop
 <p align="center">
   <img width=1000
        src=/Screenshots/Screenshot1.png

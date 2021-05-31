@@ -1,6 +1,6 @@
 # BSPWM-GruvBox-Theme
 BSPWM + Polybar + Rofi + Terminator on Artix Linux  
-### NOTE : Honestly and personally I like URXVT, but for easyness I went terminator as terminal. (I will add URXVT in my next rice)
+### NOTE : Honestly and personally I like using URXVT, but for easiness of use, I went with Terminator as my terminal. (I will add URXVT in my next rice)
 ### Future update : will update .bashrc to GruvBox theme
 
 
